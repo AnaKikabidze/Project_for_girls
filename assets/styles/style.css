@@ -1,6 +1,29 @@
+@font-face {
+  src: url("/assets/fonts/Montserrat-Black.ttf");
+  /* url("") format("ttf"); */
+  font-family: 'Montserrat'; 
+}
 h1 {
   color: rgb(202, 164, 115);
 }
+/* < !--Lena start--> */
+.footer__rectangle {
+  height: 385px;
+  width: 1804px;
+  background-color: #8081BD;
+  border-radius: 20px;
+}
+.footer__rectangle__text {
+  color: white;
+  font-weight: 700;
+  font-size: 40px;
+}
+.footer__rectangle__text-small {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+}
+/* < !--Lena finish--> */
         /* < !-- Диана Header начало--> */
         
         /* < !-- Диана Header конец--> */
