@@ -23,6 +23,20 @@ h1 {
   font-weight: 500;
   font-size: 20px;
 }
+.submit {
+  display: flex;
+}
+#telephone {
+  background: #FFFFFF;
+  border-radius: 50px;
+  border: none;
+}
+.submit__btn {
+  text-transform: uppercase;
+  background: #F6B31F;
+  border-radius: 50px;
+  border: none;
+}
 /* < !--Lena finish--> */
         /* < !-- Диана Header начало--> */
         
