@@ -40,54 +40,18 @@
   font-size: 10px;
 }
 /* < !--Lena finish--> */
+
 /* < !-- Ana Header_main начало--> */
 
-.header_main_1 {
+.container_header_main_1 {
   background-color: #fddc4e;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
-h1 {
-  font-style: normal;
-  color: #334155;
-  font-weight: 700;
-  font-size: 96px;
-  line-height: 117px;
-}
-h2 {
-  font-style: normal;
-  color: #334155;
-  font-weight: 600;
-  font-size: 36px;
-  line-height: 44px;
-}
-.headre_main_2 {
+.container_header_main_2 {
   background-color: #8081bd;
 }
-.main_submit {
+.header_form {
   display: flex;
   flex-direction: column;
-  align-items: center;
-}
-#name {
-  background: #ffffff;
-  border-radius: 50px;
-  border: none;
-}
-#mail {
-  background: #ffffff;
-  border-radius: 50px;
-  border: none;
-}
-#telephone_2 {
-  background: #ffffff;
-  border-radius: 50px;
-  border: none;
-}
-#arrow {
-  width: 155px;
-  height: 60px;
 }
 
 /* < !-- Ana Header_main конец--> */
