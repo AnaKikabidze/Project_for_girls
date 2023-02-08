@@ -1,16 +1,14 @@
 @font-face {
   src: url("/assets/fonts/Montserrat-Black.ttf");
   /* url("") format("ttf"); */
-  font-family: 'Montserrat'; 
+  font-family: "Montserrat";
 }
-h1 {
-  color: rgb(202, 164, 115);
-}
+
 /* < !--Lena start--> */
 .footer__rectangle {
   height: 385px;
   width: 1804px;
-  background-color: #8081BD;
+  background-color: #8081bd;
   border-radius: 20px;
 }
 .footer__rectangle__text {
@@ -27,21 +25,27 @@ h1 {
   display: flex;
 }
 #telephone {
-  background: #FFFFFF;
+  background: #ffffff;
   border-radius: 50px;
   border: none;
 }
 .footer__submit__btn {
   text-transform: uppercase;
-  background: #F6B31F;
+  background: #f6b31f;
   border-radius: 50px;
   border: none;
 }
 .footer__user {
-  color:white;
+  color: white;
   font-size: 10px;
 }
 /* < !--Lena finish--> */
-        /* < !-- Диана Header начало--> */
-        
-        /* < !-- Диана Header конец--> */
+/* < !-- Ana Header_main начало--> */
+.header_main_1 {
+  background-color: #fddc4e;
+}
+.headre_main_2 {
+  background-color: #8081bd;
+}
+
+/* < !-- Ana Header_main конец--> */
