@@ -85,5 +85,9 @@ h2 {
   border-radius: 50px;
   border: none;
 }
+#arrow {
+  width: 155px;
+  height: 60px;
+}
 
 /* < !-- Ana Header_main конец--> */
