@@ -5,77 +5,76 @@
 }
 
 /* < !-- Shahnoz Header_logo начало--> */
-.logo1{
+.logo1 {
   position: relative;
   left: 13.05%;
   right: 85.92%;
   top: 0.73%;
   bottom: 98.78%;
 }
-.logo2{
-position: relative;
-left: 14.22%;
-right: 85.5%;
-top: 0.86%;
-bottom: 98.78%;
+.logo2 {
+  position: relative;
+  left: 14.22%;
+  right: 85.5%;
+  top: 0.86%;
+  bottom: 98.78%;
 }
-.logo3{
+.logo3 {
   position: relative;
   left: 14.22%;
   right: 85.5%;
   top: 0.73%;
   bottom: 99.17%;
 }
-.logo4{
+.logo4 {
   position: relative;
-left: 14.68%;
-right: 84.03%;
-top: 0.73%;
-bottom: 98.77%;
+  left: 14.68%;
+  right: 84.03%;
+  top: 0.73%;
+  bottom: 98.77%;
 }
-.logo5{
+.logo5 {
   position: relative;
-left: 16.09%;
-right: 82.86%;
-top: 0.85%;
-bottom: 98.77%;
+  left: 16.09%;
+  right: 82.86%;
+  top: 0.85%;
+  bottom: 98.77%;
 }
-.logo6{
+.logo6 {
   position: relative;
-left: 17.55%;
-right: 81.4%;
-top: 0.85%;
-bottom: 98.77%;
+  left: 17.55%;
+  right: 81.4%;
+  top: 0.85%;
+  bottom: 98.77%;
 }
-.logo7{
-position: relative;
-left: 18.67%;
-right: 80.47%;
-top: 0.77%;
-bottom: 98.77%;
+.logo7 {
+  position: relative;
+  left: 18.67%;
+  right: 80.47%;
+  top: 0.77%;
+  bottom: 98.77%;
 }
-.logo8{
-position: relative;
-left: 19.57%;
-right: 79.14%;
-top: 0.85%;
-bottom: 98.77%;
+.logo8 {
+  position: relative;
+  left: 19.57%;
+  right: 79.14%;
+  top: 0.85%;
+  bottom: 98.77%;
 }
-.logo9{
-position: relative;
-left: 21.03%;
-right: 78.2%;
-top: 0.86%;
-bottom: 98.78%;
+.logo9 {
+  position: relative;
+  left: 21.03%;
+  right: 78.2%;
+  top: 0.86%;
+  bottom: 98.78%;
 }
-.logo10{
-position: relative;
-left: 21.91%;
-right: 76.98%;
-top: 0.86%;
-bottom: 98.67%;
+.logo10 {
+  position: relative;
+  left: 21.91%;
+  right: 76.98%;
+  top: 0.86%;
+  bottom: 98.67%;
 }
-
 
 /* < !--Lena start--> */
 .footer__rectangle {
@@ -121,19 +120,57 @@ bottom: 98.67%;
 }
 .container_header_main_2 {
   background-color: #8081bd;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 .header_form {
   display: flex;
   flex-direction: column;
+  align-items: center;
+}
+.header_button {
+  background-color: #ea5d4a;
+  color: #ffffff;
+  width: 308px;
+  height: 40px;
+  border-radius: 50px;
+}
+#name {
+  width: 308px;
+  height: 40px;
+  border-radius: 40px;
+}
+#Number {
+  width: 308px;
+  height: 40px;
+  border-radius: 40px;
+}
+#Mail {
+  width: 308px;
+  height: 40px;
+  border-radius: 40px;
+}
+h1 {
+  color: #334155;
+  width: 472px;
+  height: 117px;
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 117px;
+}
+.h2_header {
+  color: #334155;
 }
 
 /* < !-- Ana Header_main конец--> */
 
 /* < !-- Shahnoz Header_main начало--> */
-.icons{
+.icons {
   width: 5%;
 }
-.text{
+.text {
   font-weight: bold;
 }
 /* < !-- Shahnoz Header_main конец--> */
