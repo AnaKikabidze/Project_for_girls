@@ -5,77 +5,69 @@
 }
 
 /* < !-- Shahnoz Header_logo начало--> */
-.logo1{
-  position: relative;
-  left: 13.05%;
-  right: 85.92%;
-  top: 0.73%;
-  bottom: 98.78%;
+.adress{
+  padding: 10px;
+  margin: 10px;
+ font-size: 10px;
 }
-.logo2{
-position: relative;
-left: 14.22%;
-right: 85.5%;
-top: 0.86%;
-bottom: 98.78%;
+.logo{
+  width: 15%;
+  height: 15%;
 }
-.logo3{
-  position: relative;
-  left: 14.22%;
-  right: 85.5%;
-  top: 0.73%;
-  bottom: 99.17%;
-}
-.logo4{
-  position: relative;
-left: 14.68%;
-right: 84.03%;
-top: 0.73%;
-bottom: 98.77%;
-}
-.logo5{
-  position: relative;
-left: 16.09%;
-right: 82.86%;
-top: 0.85%;
-bottom: 98.77%;
-}
-.logo6{
-  position: relative;
-left: 17.55%;
-right: 81.4%;
-top: 0.85%;
-bottom: 98.77%;
-}
-.logo7{
-position: relative;
-left: 18.67%;
-right: 80.47%;
-top: 0.77%;
-bottom: 98.77%;
-}
-.logo8{
-position: relative;
-left: 19.57%;
-right: 79.14%;
-top: 0.85%;
-bottom: 98.77%;
-}
-.logo9{
-position: relative;
-left: 21.03%;
-right: 78.2%;
-top: 0.86%;
-bottom: 98.78%;
-}
-.logo10{
-position: relative;
-left: 21.91%;
-right: 76.98%;
-top: 0.86%;
-bottom: 98.67%;
-}
+.col{
+  font-size: 80%;
 
+}
+.bilingual{
+  font-size: 10px;
+}
+.adress{
+  word-spacing: 30%;
+}
+.phone{
+  width: 10%;
+}
+.vk{
+  width: 20%;
+}
+.telegram{
+  width: 15%;
+}
+.button{
+border-radius:15px;
+background-color: #8081bd;
+color: white;
+}
+.arrow1{
+  width: 15px;
+  height: 15px;
+  border-top: 2px solid #000000 !important;
+  border-right: 2px solid #000000 !important;
+  margin: 16px 0 0 10px;
+  transform: rotate(135deg);
+  display: inline-block;
+  transition: 1s;
+}
+.arrow2{
+  width: 15px;
+  height: 15px;
+  border-top: 2px solid #000000 !important;
+  border-right: 2px solid #000000 !important;
+  margin: 16px 0 0 10px;
+  transform: rotate(135deg);
+  display: inline-block;
+  transition: 1s;
+}
+.arrow3{
+  width: 15px;
+  height: 15px;
+  border-top: 2px solid #000000 !important;
+  border-right: 2px solid #000000 !important;
+  margin: 16px 0 0 10px;
+  transform: rotate(135deg);
+  display: inline-block;
+  transition: 1s;
+}
 
 /* < !--Lena start--> */
 .footer__rectangle {
