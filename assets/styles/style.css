@@ -79,7 +79,7 @@
 /* < !--Lena start--> */
 .footer__rectangle {
   height: 385px;
-  width: 1804px;
+  width: 100%;
   background-color: #8081bd;
   border-radius: 20px;
 }
@@ -96,7 +96,7 @@
 .footer__submit {
   display: flex;
 }
-#telephone {
+#telephone_2 {
   background: #ffffff;
   border-radius: 50px;
   border: none;
@@ -110,6 +110,10 @@
 .footer__user {
   color: white;
   font-size: 10px;
+}
+.footer__vector {
+  background: #F3ACC8;
+  transform: rotate(59.37deg);
 }
 /* < !--Lena finish--> */
 
