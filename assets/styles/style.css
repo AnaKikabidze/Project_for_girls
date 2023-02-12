@@ -71,7 +71,7 @@
 
 /* < !--Lena start--> */
 .footer__rectangle {
-  height: 385px;
+  height: auto;
   width: 100%;
   background-color: #8081bd;
   border-radius: 20px;
@@ -102,6 +102,41 @@
 }
 .footer__user {
   color: white;
+  font-size: 10px;
+}
+.main__rectangle {
+  height: auto;
+  width: 100%;
+  background-color: #FFF6D1;
+  border-radius: 20px;
+}
+.main__rectangle__text {
+  color: #334155;
+  font-weight: 700;
+  font-size: 40px;
+}
+.main__rectangle__text-small {
+  color: #334155;
+  font-weight: 500;
+  font-size: 20px;
+}
+.main__submit {
+  display: flex;
+}
+#telephone_3 {
+  background: #FDDC4E;
+  border-radius: 50px;
+  border: none;
+}
+.main__submit__btn {
+  text-transform: uppercase;
+  background: #EA5D4A;
+  border-radius: 50px;
+  border: none;
+  color: white;
+}
+.main__user {
+  color: #334155;
   font-size: 10px;
 }
 
