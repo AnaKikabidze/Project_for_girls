@@ -5,40 +5,40 @@
 }
 
 /* < !-- Shahnoz Header_logo начало--> */
-.adress{
+.adress {
   padding: 10px;
   margin: 10px;
- font-size: 10px;
-}
-.logo{
-  width: 15%;
-  height: 15%;}
-
-.col{
-  font-size: 80%;
-
-}
-.bilingual{
   font-size: 10px;
 }
-.adress{
+.logo {
+  width: 15%;
+  height: 15%;
+}
+
+.col {
+  font-size: 80%;
+}
+.bilingual {
+  font-size: 10px;
+}
+.adress {
   word-spacing: 30%;
 }
-.phone{
+.phone {
   width: 10%;
 }
-.vk{
+.vk {
   width: 20%;
 }
-.telegram{
+.telegram {
   width: 15%;
 }
-.button{
-border-radius:15px;
-background-color: #8081bd;
-color: white;
+.button {
+  border-radius: 15px;
+  background-color: #8081bd;
+  color: white;
 }
-.arrow1{
+.arrow1 {
   width: 15px;
   height: 15px;
   border-top: 2px solid #000000 !important;
@@ -48,7 +48,7 @@ color: white;
   display: inline-block;
   transition: 1s;
 }
-.arrow2{
+.arrow2 {
   width: 15px;
   height: 15px;
   border-top: 2px solid #000000 !important;
@@ -58,7 +58,7 @@ color: white;
   display: inline-block;
   transition: 1s;
 }
-.arrow3{
+.arrow3 {
   width: 15px;
   height: 15px;
   border-top: 2px solid #000000 !important;
@@ -105,7 +105,7 @@ color: white;
   font-size: 10px;
 }
 .footer__vector {
-  background: #F3ACC8;
+  background: #f3acc8;
   transform: rotate(59.37deg);
 }
 /* < !--Lena finish--> */
@@ -171,3 +171,9 @@ h1 {
   font-weight: bold;
 }
 /* < !-- Shahnoz Header_main конец--> */
+
+/* < !-- Ana footer начало--> */
+.map {
+  max-width: 100%;
+}
+/* < !-- Ana footer конец--> */
