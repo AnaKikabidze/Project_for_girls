@@ -104,6 +104,10 @@
   color: white;
   font-size: 10px;
 }
+#kid {
+  object-fit: cover;
+  width:100%;
+}
 .main__rectangle {
   height: auto;
   width: 100%;
