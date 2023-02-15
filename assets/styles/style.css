@@ -113,9 +113,10 @@
 #kid {
   object-fit: cover;
   width:100%;
+  position: relative;
 }
 #schoolboy {
-  position:relative;
+  position:absolute;
 }
 .main__rectangle {
   height: auto;
