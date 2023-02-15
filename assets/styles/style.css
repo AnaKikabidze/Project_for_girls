@@ -232,6 +232,76 @@ h1 {
 }
 /* < !-- Shahnoz Header_main конец--> */
 
+/* < !-- Shahnoz main начало--> */
+.row{
+  justify-content: center;
+}
+.textik{
+  color: #8081BD;
+  font-weight: 700;
+  font-size: 270%;
+  margin:15px;
+}
+.card{
+  background-color:#FFDAB9;
+}
+.img-fluid-1{
+  background-color: white;
+  margin: 8px;
+  padding: 5px;
+  width: 100%;
+  
+}
+.card-title-1{
+text-align: center;
+margin: 12px;
+}
+.img-fluid{
+  background-color: white;
+  margin: 10px;
+  padding: 5px;
+  width: 65%;
+  height: 75%;
+}
+.card-title{
+  font-size: 12px;
+  margin: 10px;
+}
+.adventages{
+  margin:15px;
+}
+.icons-1{
+  width: 20%;
+  border-radius: 10px;
+}
+.card-img-top{
+  width: 70%;
+  height: 70%;
+  margin: 15px;
+  border-radius: 10px;
+}
+.card-column__title{
+  color:#8081BD ;
+  margin: 8px;
+}
+.card-column__text{
+  margin: 10px;
+}
+.textik1{
+  color: #8081BD;
+  font-weight: 700;
+  font-size: 270%;
+  margin:15px;
+}
+.card{
+  background-image: url(../image/background.svg);
+}
+.adventages-icons{
+  background-image: url(../image/background.svg);
+}
+/* < !-- Shahnoz main конец--> */
+
+
 /* < !-- Ana footer начало--> */
 .map {
   max-width: 100%;
