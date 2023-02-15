@@ -76,6 +76,12 @@
   background-color: #8081bd;
   border-radius: 20px;
 }
+.wrapper{
+  display: flex;
+}
+.wrapper__text {
+
+}
 .footer__rectangle__text {
   color: white;
   font-weight: 700;
@@ -107,6 +113,9 @@
 #kid {
   object-fit: cover;
   width:100%;
+}
+#schoolboy {
+  position:relative;
 }
 .main__rectangle {
   height: auto;
@@ -153,7 +162,7 @@
   font-weight: 500;
   font-size: 20px;
 }
-.slogan {
+h4 {
   color: #EA5D4A;
   font-weight: 700;
 }
