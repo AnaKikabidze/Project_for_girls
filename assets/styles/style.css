@@ -87,12 +87,12 @@
 .footer__rectangle__text {
   color: white;
   font-weight: 700;
-  font-size: 3em;
+  font-size: 3vw;
 }
 .footer__rectangle__text-small {
   color: white;
   font-weight: 500;
-  font-size: 2em;
+  font-size: 2vw;
 }
 .footer__submit {
   display: flex;
@@ -110,7 +110,7 @@
 }
 .footer__user {
   color: white;
-  font-size: 1em;
+  font-size: 1vw;
 }
 #schoolboy {
   z-index: 2;
@@ -131,12 +131,12 @@
 .main__rectangle__text {
   color: #334155;
   font-weight: 700;
-  font-size: 3em;
+  font-size: 3vw;
 }
 .main__rectangle__text-small {
   color: #334155;
   font-weight: 500;
-  font-size: 2em;
+  font-size: 2vw;
 }
 .main__submit {
   display: flex;
@@ -155,17 +155,17 @@
 }
 .main__user {
   color: #334155;
-  font-size: 1em;
+  font-size: 1vw;
 }
 .row__h3 {
   color: #8081bd;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 2vw;
 }
 .aboutcenter {
   color: #334155;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 1vw;
 }
 h4 {
   color: #ea5d4a;
@@ -197,23 +197,24 @@ h4 {
 .header_button {
   background-color: #ea5d4a;
   color: #ffffff;
-  width: 308px;
-  height: 40px;
+  width: 85%;
+  height: 30%;
   border-radius: 50px;
 }
 #name {
-  width: 308px;
-  height: 40px;
+  width: 85%;
+  height: 30%;
   border-radius: 40px;
 }
 #Number {
-  width: 308px;
-  height: 40px;
+  width: 85%;
+  height: 30%;
   border-radius: 40px;
 }
+
 #Mail {
-  width: 308px;
-  height: 40px;
+  width: 85%;
+  height: 30%;
   border-radius: 40px;
 }
 h1 {
@@ -235,7 +236,10 @@ h1 {
 .girl_main {
   max-width: 160%;
   max-height: 100%;
+  position: relative;
+  right: 30%;
 }
+
 /* < !-- Ana Header_main конец--> */
 
 /* < !-- Shahnoz Header_main начало--> */
