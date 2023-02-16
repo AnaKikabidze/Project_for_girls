@@ -197,7 +197,7 @@ h4 {
   .footer__rectangle {
     width: 100%;
   }
-  .footer__vector {
+  .footer__vector, .main__vector {
     display: none;
   }
   .card-body {
