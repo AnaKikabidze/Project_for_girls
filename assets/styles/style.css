@@ -361,7 +361,7 @@ h1 {
   max-width: 100%;
 }
 .footer_phone {
-  max-width: 5%;
+  max-width: 10%;
 }
 .nav-link {
   color: #000000;
@@ -370,5 +370,13 @@ h1 {
 .logo_footer {
   max-width: 50%;
 }
-
+.footer_phone_wrapper {
+  display: flex;
+}
+.vk_footer {
+  max-width: 10%;
+}
+.tg_footer {
+  max-width: 10%;
+}
 /* < !-- Ana footer конец--> */
