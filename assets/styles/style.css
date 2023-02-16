@@ -197,23 +197,24 @@ h4 {
 .header_button {
   background-color: #ea5d4a;
   color: #ffffff;
-  width: 308px;
-  height: 40px;
+  width: 85%;
+  height: 30%;
   border-radius: 50px;
 }
 #name {
-  width: 308px;
-  height: 40px;
+  width: 85%;
+  height: 30%;
   border-radius: 40px;
 }
 #Number {
-  width: 308px;
-  height: 40px;
+  width: 85%;
+  height: 30%;
   border-radius: 40px;
 }
+
 #Mail {
-  width: 308px;
-  height: 40px;
+  width: 85%;
+  height: 30%;
   border-radius: 40px;
 }
 h1 {
@@ -235,7 +236,10 @@ h1 {
 .girl_main {
   max-width: 160%;
   max-height: 100%;
+  position: relative;
+  right: 30%;
 }
+
 /* < !-- Ana Header_main конец--> */
 
 /* < !-- Shahnoz Header_main начало--> */
