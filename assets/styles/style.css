@@ -196,6 +196,9 @@ h4 {
   .footer__vector {
     display: none;
   }
+  .card-body {
+    max-height: 50px;
+  }
 }
 /* < !--Lena finish--> */
 
@@ -298,7 +301,8 @@ h1 {
 }
 .card-title-1 {
   text-align: center;
-  margin: 12px;
+  margin: 2%;
+  font-size: 1vw;
 }
 .img-fluid {
   background-color: white;
@@ -308,8 +312,8 @@ h1 {
   height: 75%;
 }
 .card-title {
-  font-size: 12px;
-  margin: 10px;
+  font-size: 1vw;
+  margin: 2%;
 }
 .adventages {
   margin: 15px;
