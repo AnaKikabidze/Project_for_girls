@@ -114,11 +114,13 @@
 }
 #schoolboy {
   z-index: 2;
-  position: relative;
+  position: absolute;
+  padding: 20%;
+  margin-bottom: 10%;
 }
 #schoolboyback {
   z-index: 1;
-  position:absolute;
+  position:relative;
 }
 .main__rectangle {
   height: auto;
