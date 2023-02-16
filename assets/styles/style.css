@@ -114,18 +114,24 @@
 #schoolboy {
   z-index: 2;
   position: absolute;
-  padding: 20%;
-  margin-bottom: 10%;
+  padding-top: 10%;
+  padding-left: 15%;
+  max-height: 95%;
 }
 #schoolboyback {
   z-index: 1;
   position: relative;
+  width: 100%;
+}
+.main {
+  margin-top: 10%;
 }
 .main__rectangle {
   height: auto;
   width: 100%;
   background-color: #fff6d1;
   border-radius: 20px;
+  margin-bottom: 5%;
 }
 .main__rectangle__text {
   color: #334155;
@@ -170,28 +176,31 @@ h4 {
   color: #ea5d4a;
   font-weight: 700;
 }
-@media (max-width: 1200px){
+@media (max-width: 1200px) {
   .container {
-      max-width: 970px;
+    max-width: 970px;
   }
 }
-@media (max-width: 992px){
+@media (max-width: 992px) {
   .container {
-      max-width: 750px;
+    max-width: 750px;
   }
-  .footer__vector {
+  .footer__vector, .main__vector {
     display: none;
   }
 }
-@media (max-width: 767px){
+@media (max-width: 767px) {
   .container {
-      max-width: none;
+    max-width: none;
   }
   .footer__rectangle {
-  width: 100%;
+    width: 100%;
   }
-  .footer__vector {
+  .footer__vector, .main__vector {
     display: none;
+  }
+  .card-body {
+    max-height: 50px;
   }
 }
 /* < !--Lena finish--> */
@@ -261,13 +270,16 @@ h1 {
   position: relative;
   right: 30%;
 }
+.form-check-label {
+  max-width: 85%;
+  max-height: 30%;
+}
 
 /* < !-- Ana Header_main конец--> */
 
 /* < !-- Shahnoz Header_main начало--> */
 .icons {
   width: 5%;
- 
 }
 .text {
   font-weight: bold;
@@ -296,7 +308,8 @@ h1 {
 }
 .card-title-1 {
   text-align: center;
-  margin: 12px;
+  margin: 2%;
+  font-size: 1vw;
 }
 .img-fluid {
   background-color: white;
@@ -306,8 +319,8 @@ h1 {
   height: 75%;
 }
 .card-title {
-  font-size: 12px;
-  margin: 10px;
+  font-size: 1vw;
+  margin: 2%;
 }
 .adventages {
   margin: 15px;
@@ -350,4 +363,12 @@ h1 {
 .footer_phone {
   max-width: 5%;
 }
+.nav-link {
+  color: #000000;
+  font-size: small;
+}
+.logo_footer {
+  max-width: 50%;
+}
+
 /* < !-- Ana footer конец--> */
