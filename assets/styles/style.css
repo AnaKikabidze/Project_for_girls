@@ -350,4 +350,9 @@ h1 {
 .footer_phone {
   max-width: 5%;
 }
+.nav-link {
+  color: #000000;
+  font-size: small;
+}
+
 /* < !-- Ana footer конец--> */
