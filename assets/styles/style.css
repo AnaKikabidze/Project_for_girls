@@ -11,8 +11,7 @@
   font-size: 10px;
 }
 .logo {
-  width: 15%;
-  height: 15%;
+    max-width:15%;
 }
 
 .col {
@@ -25,13 +24,13 @@
   word-spacing: 30%;
 }
 .phone {
-  width: 10%;
+  max-width: 6%;
 }
 .vk {
-  width: 20%;
+  max-width: 20%;
 }
 .telegram {
-  width: 15%;
+  max-width: 20%;
 }
 .button {
   border-radius: 15px;
@@ -186,7 +185,7 @@ h4 {
   .container {
     max-width: 750px;
   }
-  .footer__vector {
+  .footer__vector, .main__vector {
     display: none;
   }
 }
@@ -197,7 +196,7 @@ h4 {
   .footer__rectangle {
     width: 100%;
   }
-  .footer__vector {
+  .footer__vector, .main__vector {
     display: none;
   }
   .card-body {
@@ -284,6 +283,7 @@ h1 {
 }
 .text {
   font-weight: bold;
+  font-size: 60%;
 }
 /* < !-- Shahnoz Header_main конец--> */
 
