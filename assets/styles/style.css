@@ -171,7 +171,30 @@ h4 {
   color: #ea5d4a;
   font-weight: 700;
 }
-
+@media (max-width: 1200px){
+  .container {
+      max-width: 970px;
+  }
+}
+@media (max-width: 992px){
+  .container {
+      max-width: 750px;
+  }
+  .footer__vector {
+    display: none;
+  }
+}
+@media (max-width: 767px){
+  .container {
+      max-width: none;
+  }
+  .footer__rectangle {
+  width: 100%;
+  }
+  .footer__vector {
+    display: none;
+  }
+}
 /* < !--Lena finish--> */
 
 /* < !-- Ana Header_main начало--> */
