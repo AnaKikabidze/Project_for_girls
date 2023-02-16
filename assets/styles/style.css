@@ -124,11 +124,15 @@
   position: relative;
   width: 100%;
 }
+.main {
+  margin-top: 10%;
+}
 .main__rectangle {
   height: auto;
   width: 100%;
   background-color: #fff6d1;
   border-radius: 20px;
+  margin-bottom: 5%;
 }
 .main__rectangle__text {
   color: #334155;
