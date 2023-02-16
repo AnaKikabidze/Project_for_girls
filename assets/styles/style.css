@@ -76,12 +76,12 @@
   background-color: #8081bd;
   border-radius: 20px;
 }
-.wrapper{
+.wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
 }
-.wrapper__text{
+.wrapper__text {
   padding: 10%;
 }
 .footer__rectangle__text {
@@ -120,12 +120,12 @@
 }
 #schoolboyback {
   z-index: 1;
-  position:relative;
+  position: relative;
 }
 .main__rectangle {
   height: auto;
   width: 100%;
-  background-color: #FFF6D1;
+  background-color: #fff6d1;
   border-radius: 20px;
 }
 .main__rectangle__text {
@@ -142,13 +142,13 @@
   display: flex;
 }
 #telephone_3 {
-  background: #FDDC4E;
+  background: #fddc4e;
   border-radius: 50px;
   border: none;
 }
 .main__submit__btn {
   text-transform: uppercase;
-  background: #EA5D4A;
+  background: #ea5d4a;
   border-radius: 50px;
   border: none;
   color: white;
@@ -158,7 +158,7 @@
   font-size: 1em;
 }
 .row__h3 {
-  color: #8081BD;
+  color: #8081bd;
   font-weight: 700;
   font-size: 40px;
 }
@@ -168,13 +168,16 @@
   font-size: 20px;
 }
 h4 {
-  color: #EA5D4A;
+  color: #ea5d4a;
   font-weight: 700;
 }
 
 /* < !--Lena finish--> */
 
 /* < !-- Ana Header_main начало--> */
+.container_header_main {
+  margin-top: 3%;
+}
 
 .container_header_main_1 {
   background-color: #fddc4e;
@@ -218,13 +221,21 @@ h1 {
   width: 472px;
   height: 117px;
   font-weight: 700;
-  font-size: 96px;
+  font-size: 5vw;
   line-height: 117px;
 }
 .h2_header {
   color: #334155;
+  font-size: 3vw;
 }
-
+.boy_main {
+  max-width: 160%;
+  max-width: 160%;
+}
+.girl_main {
+  max-width: 160%;
+  max-height: 100%;
+}
 /* < !-- Ana Header_main конец--> */
 
 /* < !-- Shahnoz Header_main начало--> */
@@ -237,74 +248,72 @@ h1 {
 /* < !-- Shahnoz Header_main конец--> */
 
 /* < !-- Shahnoz main начало--> */
-.row{
+.row {
   justify-content: center;
 }
-.textik{
-  color: #8081BD;
+.textik {
+  color: #8081bd;
   font-weight: 700;
   font-size: 270%;
-  margin:15px;
+  margin: 15px;
 }
-.card{
-  background-color:#FFDAB9;
+.card {
+  background-color: #ffdab9;
 }
-.img-fluid-1{
+.img-fluid-1 {
   background-color: white;
   margin: 8px;
   padding: 5px;
   width: 100%;
-  
 }
-.card-title-1{
-text-align: center;
-margin: 12px;
+.card-title-1 {
+  text-align: center;
+  margin: 12px;
 }
-.img-fluid{
+.img-fluid {
   background-color: white;
   margin: 10px;
   padding: 5px;
   width: 65%;
   height: 75%;
 }
-.card-title{
+.card-title {
   font-size: 12px;
   margin: 10px;
 }
-.adventages{
-  margin:15px;
+.adventages {
+  margin: 15px;
 }
-.icons-1{
+.icons-1 {
   width: 20%;
   border-radius: 10px;
 }
-.card-img-top{
+.card-img-top {
   width: 70%;
   height: 70%;
   margin: 15px;
   border-radius: 10px;
 }
-.card-column__title{
-  color:#8081BD ;
+.card-column__title {
+  color: #8081bd;
   margin: 8px;
 }
-.card-column__text{
+.card-column__text {
   margin: 10px;
 }
-.textik1{
-  color: #8081BD;
+.textik1 {
+  color: #8081bd;
   font-weight: 700;
   font-size: 270%;
-  margin:15px;
+  margin: 15px;
 }
-.card{
+.card {
   background-image: url(../image/background.svg);
 }
-.adventages-icons{
+.adventages-icons {
   background-image: url(../image/background.svg);
 }
 /* < !-- Shahnoz main конец--> */
-
 
 /* < !-- Ana footer начало--> */
 .map {
