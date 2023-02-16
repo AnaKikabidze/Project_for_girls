@@ -186,7 +186,7 @@ h4 {
   .container {
     max-width: 750px;
   }
-  .footer__vector {
+  .footer__vector, .main__vector {
     display: none;
   }
 }
