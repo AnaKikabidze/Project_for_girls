@@ -13,7 +13,6 @@
 .logo {
     max-width:15%;
 }
-
 .col {
   font-size: 80%;
 }
@@ -21,7 +20,7 @@
   font-size: 10px;
 }
 .adress {
-  word-spacing: 30%;
+  word-spacing: 0.5em;
 }
 .phone {
   max-width: 6%;
@@ -119,7 +118,14 @@
   padding-left: 15%;
   max-height: 95%;
 }
-#schoolboyback {
+#student{
+  z-index: 2;
+  position: absolute;
+  padding-top: 10%;
+  padding-left: 15%;
+  max-height: 95%; 
+}
+#schoolboyback,#studentback {
   z-index: 1;
   position: relative;
   width: 100%;
@@ -283,6 +289,7 @@ h1 {
 .icons {
   width: 5%;
 }
+
 .text {
   font-weight: bold;
   font-size: 60%;
