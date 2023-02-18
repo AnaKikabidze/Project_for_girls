@@ -123,22 +123,22 @@
   position: absolute;
   padding-top: 10%;
   padding-left: 15%;
-  max-height: 95%; 
+  max-height: 60%;
+  max-width: 100%; 
 }
 #schoolboyback,#studentback {
   z-index: 1;
   position: relative;
   width: 100%;
 }
-.main {
-  margin-top: 10%;
-}
+
 .main__rectangle {
   height: auto;
   width: 100%;
   background-color: #fff6d1;
   border-radius: 20px;
   margin-bottom: 5%;
+  margin-top: 10%;
 }
 .main__rectangle__text {
   color: #334155;
@@ -210,6 +210,7 @@ h4 {
     max-height: 50px;
   }
 }
+
 /* < !--Lena finish--> */
 
 /* < !-- Ana Header_main начало--> */
@@ -324,7 +325,7 @@ h1 {
   background-color: white;
   margin: 10px;
   padding: 5px;
-  width: 65%;
+  max-width: 200%;
   height: 75%;
 }
 .card-title {
@@ -349,7 +350,7 @@ h1 {
   margin: 8px;
 }
 .card-column__text {
-  margin: 10px;
+  margin: 8px;
 }
 .textik1 {
   color: #8081bd;
