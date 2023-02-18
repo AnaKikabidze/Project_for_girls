@@ -25,3 +25,6 @@ The site contains information about the kindergarten.
 * There might be issues  with very wide screens. 
 * It is adaptive only for sites with screens less than 5000px.
 
+## Link to webpage 
+* Click to this link to visit our webpage 
+https://anakikabidze.github.io/Project_for_girls/
