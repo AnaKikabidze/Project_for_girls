@@ -130,10 +130,8 @@
   position: relative;
   width: 100%;
 }
-.main {
-  margin-top: 10%;
-}
 .main__rectangle {
+  margin-top: 10%;
   height: auto;
   width: 100%;
   background-color: #fff6d1;
